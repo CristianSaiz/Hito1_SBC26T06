@@ -1,0 +1,76 @@
+# ==============================================================================
+# REPOSITORIO ESP-IDF / UPM (SISTEMAS BASADOS EN COMPUTADOR)
+# ==============================================================================
+
+# --- Artefactos de Compilación ESP-IDF (Obligatorio Rúbrica) ---
+build/
+**/build/
+*.bin
+*.elf
+*.map
+flasher_args.json
+*.o
+*.a
+*.out
+*.exe
+
+# --- Configuración del Chip y Kconfig ---
+sdkconfig
+sdkconfig.old
+
+# --- Dependencias y Componentes ESP-IDF ---
+components/.idf/
+**/components/.idf/
+managed_components/
+.espressif/
+
+# --- Artefactos de CMake ---
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+
+# --- IDEs y Servidores de Lenguaje (VS Code / Clangd) ---
+.vscode/
+**/.vscode/
+.clangd/
+**/.clangd/
+.ccls-cache/
+compile_commands.json
+.idea/
+*.user
+*.workspace
+*.suo
+*.sln.docstates
+
+# --- Entornos Virtuales y Caché de Python ---
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+dist/
+venv/
+.venv/
+env/
+
+# --- Metadatos de Sistema Operativo y Temporales ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux / Editores
+.directory
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
