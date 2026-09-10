@@ -1,11 +1,15 @@
 # Sistemas Basados en Computador (UPM) - Hito 1: Control de Frecuencia de Parpadeo
 
 ## Metadatos del Proyecto
-* **Identificador de Grupo:** `SBC26T06`
+* **Asignatura:** Sistemas Basados en Computador (SBC) - ETSISI UPM
+* **Identificador de Grupo:** `SBC26T06` (Turno de Prácticas: **Grupo B**)
+* **Miembros del Grupo B:**
+  * Ana Cuevas
+  * Cristian Saiz
 * **Plataforma Hardware:** ESP32-WROOM-32 (Xtensa Dual-Core 32-bit LX6)
 * **Framework y Entorno:** ESP-IDF v5.x / FreeRTOS Kernel
 * **Lenguaje:** C (C99 / C11)
-* **Repositorio GitHub:** [Enlace al repositorio](https://github.com/...)
+* **Repositorio GitHub:** [Enlace al repositorio](https://github.com/CristianSaiz/Hito1_SBC26T06)
 * **Espacio de Trabajo SharePoint:** [Directorio del Grupo en SharePoint](https://upm365.sharepoint.com/sites/SBC26T06)
 * **Vídeo Demostrativo:** [Enlace a la demostración (< 1 min)](https://upm365.sharepoint.com/sites/SBC26T06/...)
 
