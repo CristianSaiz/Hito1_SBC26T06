@@ -2,7 +2,7 @@
 
 ## Metadatos del Proyecto
 * **Asignatura:** Sistemas Basados en Computador (SBC) - ETSISI UPM
-* **Identificador de Grupo:** `SBC26T06` (Turno de Prácticas: **Grupo B**)
+* **Identificador de Grupo:** `SBC26T06` (**Grupo B**)
 * **Miembros del Grupo B:**
   * Ana Cuevas
   * Cristian Saiz
@@ -10,8 +10,8 @@
 * **Framework y Entorno:** ESP-IDF v5.x / FreeRTOS Kernel
 * **Lenguaje:** C (C99 / C11)
 * **Repositorio GitHub:** [Enlace al repositorio](https://github.com/CristianSaiz/Hito1_SBC26T06)
-* **Espacio de Trabajo SharePoint:** [Directorio del Grupo en SharePoint](https://upm365.sharepoint.com/sites/SBC26T06)
-* **Vídeo Demostrativo:** [Enlace a la demostración (< 1 min)](https://upm365.sharepoint.com/sites/SBC26T06/...)
+* **Espacio de Trabajo SharePoint:** [Directorio del Grupo en SharePoint](https://upm365.sharepoint.com/:f:/s/SBC26T06/IgAfcfb6XP7-TKV2JMnOc4WSAd6uPRMtpuJ2iCpAW_Zck24?e=66d0a3)
+* **Vídeo Demostrativo:** [Enlace a la demostración (< 1 min)](https://upm365.sharepoint.com/:v:/s/SBC26T06/IQBVzSkdNLwHSaj4WkVzERdoAZRIPk3-6mojsQr8qt3T1Lw?e=Lu0EGH)
 
 ---
 
