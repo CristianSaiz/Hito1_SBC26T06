@@ -18,10 +18,10 @@
 ## 1. Descripción General
 Este proyecto implementa el control de cadencia de un diodo LED mediante un conmutador mecánico de dos posiciones, abordando el problema desde dos paradigmas arquitectónicos distintos para sistemas empotrados:
 
-1. **Variante Básica (`Hito1_Basico`):** Gobernado mediante sondeo secuencial periódico (*polling*) dentro de la tarea principal de usuario[cite: 2].
-2. **Variante Avanzada (`Hito1_Avanzado`):** Arquitectura reactiva dirigida por interrupciones de hardware (*ISR*) en memoria interna `IRAM`, sincronización entre procesos mediante colas FreeRTOS (`xQueue`) y separación de responsabilidades multihilo[cite: 2].
+1. **Variante Básica (`Hito1_Basico`):** Gobernado mediante sondeo secuencial periódico (*polling*) dentro de la tarea principal de usuario.
+2. **Variante Avanzada (`Hito1_Avanzado`):** Arquitectura reactiva dirigida por interrupciones de hardware (*ISR*) en memoria interna `IRAM`, sincronización entre procesos mediante colas FreeRTOS (`xQueue`) y separación de responsabilidades multihilo.
 
-Ambas variantes generan una onda cuadrada simétrica (Duty Cycle del 50%) conmutando entre **1.0 Hz** ($T = 1000\text{ ms}$) y **2.0 Hz** ($T = 500\text{ ms}$)[cite: 2].
+Ambas variantes generan una onda cuadrada simétrica (Duty Cycle del 50%) conmutando entre **1.0 Hz** ($T = 1000\text{ ms}$) y **2.0 Hz** ($T = 500\text{ ms}$).
 
 ---
 
